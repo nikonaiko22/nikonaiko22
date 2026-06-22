@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋<h2> I'm Niko</h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dpandyanZ4NWViOWl6ZHNpdnNhOXN6eXUzZ2tmdDRpYXE2b2diMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 
 <h3> 💻 About Me </h3>
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <hr>
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="350" align='right'>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hxam9xc2s5bWNlcnkzaHUxNXZja2R2MTF2YnI3aHM2eGJxYnU5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikonaiko22&show_icons=true&theme=gotham)
 
